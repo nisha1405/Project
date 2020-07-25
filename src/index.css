@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.background{
+	display: inline-block;
+	text-align: center;
+	margin-top: 5%;
+	height: 500px;
+	background-color: #76ccc4;
+	color: white;
+	width: 50%;
+}
+
+.heading1{
+	background-color: black;
+	padding: 20px;
+}
+
+.data_table {
+	width: 100%;
+	
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+table{
+	margin-bottom: 20px;
+}
